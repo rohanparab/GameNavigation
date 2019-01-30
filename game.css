@@ -1,0 +1,13 @@
+.game{
+    height: 400px;
+    width: 400px;
+    background-color: greenyellow;
+}
+
+.mover{
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+    border-radius: 50px;
+    position: absolute;
+}
